@@ -60,9 +60,10 @@ end
 endmodule
 ```
 
-Name: RITHISH P
+Name: Selvaganesh R
 
-Reg No: 212223230173
+
+Reg No: 212223230200
 
 **RTL LOGIC FOR FLIPFLOPS**
 
